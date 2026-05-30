@@ -1,7 +1,7 @@
  
 # Hey there 👋
 
-I'm Trisona, a CSE student exploring technology and building things that interest me.
+I'm Trisona G, a CSE student exploring technology and building things that interest me.
 
 Currently focused on:
 
@@ -10,7 +10,6 @@ Currently focused on:
 * Software Development
 
 A few things about me:
-
 * I enjoy learning by building projects
 * Always experimenting with new ideas
 * Documenting my journey one commit at a time
